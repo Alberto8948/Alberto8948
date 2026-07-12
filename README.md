@@ -37,6 +37,7 @@
 <p>
 <img src="https://skillicons.dev/icons?i=java,spring,python,html,css,js,git,github,mysql,vscode" />
 </p>
+
 ## Atualmente
 
 🌱 Estudando Java, Spring Boot e Desenvolvimento Web.
