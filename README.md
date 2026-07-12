@@ -26,6 +26,17 @@
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alberto8948&layout=compact&theme=tokyonight"/>
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alberto8948&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Alberto8948&theme=tokyonight)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=Alberto8948&theme=tokyonight)
+
+![Snake animation](https://raw.githubusercontent.com/Alberto8948/Alberto8948/output/github-contribution-grid-snake.svg)
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,python,html,css,js,git,github,mysql,vscode" />
+</p>
 ## Atualmente
 
 🌱 Estudando Java, Spring Boot e Desenvolvimento Web.
