@@ -33,7 +33,5 @@
 
 📫 Contato
 
-Email: seuemail@gmail.com
+Email: alberton4skishimoto@gmail.com
 
-LinkedIn:
-www.linkedin.com/in/seuperfil
