@@ -13,7 +13,7 @@
 - CSS
 - SQL
 
-## Tecnologias
+
 
 ## 🚀 Tecnologias
 
