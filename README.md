@@ -24,9 +24,12 @@
 ## 📊 Estatísticas
 
 
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Alberto8948&theme=tokyonight&no-frame=true&row=1"/>
+  <img src="https://streak-stats.demolab.com?user=Alberto8948&theme=tokyonight&hide_border=true"/>
 </p>
+
+
 
 
 
