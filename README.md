@@ -29,10 +29,7 @@
   <img src="https://streak-stats.demolab.com?user=Alberto8948&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Alberto8948&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alberto8948&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-</p>
+
 
 ## 🐍 Contribuições
 
