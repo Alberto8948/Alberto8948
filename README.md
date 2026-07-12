@@ -1,16 +1,39 @@
-## Hi there 👋
+# Olá! 👋 Eu sou Alberto Kishimoto
 
-<!--
-**Alberto8948/Alberto8948** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Desenvolvimento de Sistemas
 
-Here are some ideas to get you started:
+🎓 Técnico em Desenvolvimento de Sistemas (SENAI)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Atualmente estudando
+
+- Java
+- Python
+- JavaScript
+- HTML
+- CSS
+- SQL
+
+## Tecnologias
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,git,github,vscode,mysql" />
+</p>
+
+## Estatísticas
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Alberto8948&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alberto8948&layout=compact&theme=tokyonight"/>
+</p>
+
+## Atualmente
+
+🌱 Estudando Java, Spring Boot e Desenvolvimento Web.
+
+📫 Contato
+
+Email: seuemail@gmail.com
+
+LinkedIn:
+www.linkedin.com/in/seuperfil
