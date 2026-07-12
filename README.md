@@ -15,27 +15,26 @@
 
 ## Tecnologias
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,git,github,vscode,mysql" />
-</p>
+## 🚀 Tecnologias
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,js,html,css,mysql,git,github,vscode" />
+</p>
 ## Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alberto8948&show_icons=true&theme=tokyonight)
+## 📊 Estatísticas
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alberto8948&layout=compact&theme=tokyonight"/>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Alberto8948&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alberto8948&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alberto8948&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Alberto8948&theme=tokyonight&hide_border=true"/>
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Alberto8948&theme=tokyonight)
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=Alberto8948&theme=tokyonight)
-
-![Snake animation](https://raw.githubusercontent.com/Alberto8948/Alberto8948/output/github-contribution-grid-snake.svg)
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring,python,html,css,js,git,github,mysql,vscode" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Alberto8948&theme=tokyonight&no-frame=true&row=1"/>
 </p>
 
 ## Atualmente
