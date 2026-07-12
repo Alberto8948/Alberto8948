@@ -20,7 +20,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,python,js,html,css,mysql,git,github,vscode" />
 </p>
-## Estatísticas
+
 
 ## 📊 Estatísticas
 
