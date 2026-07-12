@@ -37,6 +37,12 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Alberto8948&theme=tokyonight&no-frame=true&row=1"/>
 </p>
 
+## 🐍 Contribuições
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Alberto8948/Alberto8948/output/github-contribution-grid-snake.svg" />
+</p>
+
 ## Atualmente
 
 🌱 Estudando Java, Spring Boot e Desenvolvimento Web.
